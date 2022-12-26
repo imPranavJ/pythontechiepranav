@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pranav J
-- 👀 I’m interested in Artificial Intelligence and Machine Learning.
+- 👀 I’m interested in Artificial Intelligence, Machine Learning and Python Programming.
 - 🌱 I’m currently learning python and  Machine Learning using python and tensorflow library
 - 💞️ I’m looking to collaborate on my future projects
 - 📫 You can contact me on pythontechiepranav@gmail.com
